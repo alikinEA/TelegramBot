@@ -1,0 +1,16 @@
+TelegramBotich/service/ssh/SSHService.class
+TelegramBotich/model/Chat.class
+TelegramBotich/model/Message.class
+TelegramBotich/service/Queue/RebootQueueService.class
+TelegramBotich/model/TelegramUpdates.class
+TelegramBotich/service/schedule/SchedulerCheckTelegramUpdates.class
+TelegramBotich/service/schedule/SchedulerBotReboot.class
+TelegramBotich/model/From.class
+TelegramBotich/service/healCheck/HealthCheckService.class
+TelegramBotich/service/ssh/SSHServiceDemo3.class
+TelegramBotich/service/telegram/TelegramCheckUpdateService.class
+TelegramBotich/main.class
+TelegramBotich/model/Result.class
+TelegramBotich/service/telegram/TelegramSenderService.class
+TelegramBotich/service/ConfigService.class
+TelegramBotich/service/ssh/SSHDev.class
